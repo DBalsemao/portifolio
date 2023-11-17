@@ -1,0 +1,32 @@
+body{
+    background-color: darkslategrey;
+    color: #ceffa0;
+    box-sizing: border-box;
+}
+
+.cabecalho{
+    padding: 2% 0% 0% 15%;
+}
+
+.cabecalho__menu{
+    display: flex;
+    gap: 80px;
+}
+
+.cabecalho__menu__link{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    color:#ceffa0;
+    text-decoration: none;
+}
+
+
+
+.rodape{
+    color: darkslategray;
+    background-color: #ceffa0;
+    padding: 24px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
